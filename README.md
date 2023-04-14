@@ -2,6 +2,7 @@
 
 Purpose:
 - To coordinate and elevate open hardware activities in the Netherlands
+- To make apparent the need for open hardware and the areas in which it can have the most impact
 
 Output:
 1- Position paper on how, why, and who
