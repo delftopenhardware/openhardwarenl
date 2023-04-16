@@ -22,4 +22,5 @@ Process:
 
 ## Contributors
 - Sanli Faez @sanlifaez, Utrecht University
+- Vittorio Saggiomo @VSaggiomo. Wageningen University and Research
 - [please add your name via pull request]
