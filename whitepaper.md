@@ -60,6 +60,25 @@ TODO: Here we can argue that the Open Science NL program has created a focus poi
 
 TODO: we can also bring the examples of Delft, Eindhoven and Utrecht on how local initiative have brought open hardware development into education and reasearch. 
 
+Example from WUR: Chemistry student competition won in 2017 for detection of "CRISPRed" pathogens. Based on an arduino shield for detection of nucleic acid developed in our lab: 
+https://www.nwo.nl/en/news/team-crispr-clear-wins-top-sector-chemistrys-2017-student-competition
+https://www.wur.nl/nl/nieuws/wagenings-crispr-clear-team-wint-topsector-chemie-studentencompetitie-2017.htm
+https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-018-3197-9
+
+during the pandemic lockdown we developed an arduino box for colorimetric detection and send the boxes to the students for making experiments at home. This approach was highlited in Nat Chem Rev: 
+https://www.nature.com/articles/s41570-021-00285-2 
+
+and for research we have quite a lot of highlights if you want: 
+https://hackaday.com/2022/11/11/3d-printer-repurposed-for-light-duty-lab-automation-tasks/
+https://www.deingenieur.nl/artikel/uit-de-3d-printer
+https://analyticalscience.wiley.com/do/10.1002/was.0019000101/full/ 
+https://www.sciencelink.net/verdieping/met-een-nespresso-cupje-en-wat-cuvetjes-thuis-ontdekken-of-je-covid-19-hebt-opgelopen/263.article 
+https://www.nrc.nl/nieuws/2021/04/21/thuistest-voor-corona-in-een-espressocupje-a4040686
+
+and so on and so on 
+
+
+
 # Experience of the eScience center
 -> Transcribed from the talk of Nicolas Renaud
 
