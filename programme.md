@@ -12,7 +12,6 @@ The differnt topics and relevant ideas, important dates, people to be involved a
 
 | Initiative | Principal Involvement | Details |
 
-| --------------- | --------------- | --------------- |
 
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
 
