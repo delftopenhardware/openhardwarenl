@@ -8,6 +8,8 @@ First the people who are active on this repo/actively taking part in the effort 
 5. Santosh
 
 The differnt topics and relevant ideas, important dates, people to be involved and expected output are as follows:
+
+
 | Initiative | Principal Involvement | Details |
 
 | --------------- | --------------- | --------------- |
