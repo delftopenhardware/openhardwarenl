@@ -7,15 +7,12 @@ First the people who are active on this repo/actively taking part in the effort 
 4. Jose
 5. Santosh
 
-The differnt topics and relevant ideas, important dates, people to be involved and expected output are as follows:
+The differnt topics and relevant ideas, important dates, people to be involved and expected output are as follows,
 
 
 | Initiative | Principal Involvement | Details |
-
-
+| --------------- | --------------- | --------------- |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
