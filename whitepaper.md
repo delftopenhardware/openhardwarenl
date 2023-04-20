@@ -1,5 +1,9 @@
 I like the style that Sanli has proposed and is laying out the text, but the traditional elements of a white paper will still have to be there to complete it. With that in mind, the follwing is a ChatGPT mediated structure that can we can adapt to the style we actually want it in. 
 
+Executuve Summary
+    
+    In many ways this will be the most visible part of the paper. This is the section that ministers and other hight level people are most likely to read. 
+
 I. Introduction
 
     Background and context
@@ -12,16 +16,17 @@ II. Open Hardware within the context of Open Science
      Maturity of Open Hardware in relation to other Open Science elements
      
      
-III. Overview of Open Hardware around the Internatinally and in the Netherlands
+III. Overview of Open Hardware around the Internationally and in the Netherlands
 
-    Current state of OH in the World
+    Current state of OH in the world
     Current state of open hardware in the Netherlands
     Strengths and weaknesses of the open hardware ecosystem
     Trends and future outlook
 
-IV. Examples of Open Hardware Projects in the Netherlands
+IV. Examples of Open Hardware Projects 
 
-    Case studies of successful open hardware projects
+    Case studies of successful open hardware projects around the world
+    Case studies of successful open hardware projects in the Netherlands
     Analysis of the impact and benefits of these projects
 
 V. Open Hardware Community in the Netherlands
