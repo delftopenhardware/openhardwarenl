@@ -4,9 +4,28 @@
 ## Executive summary
 t.b.c.
 
+# Intro
+The Open Science movement in the Netherlands has been identified as one of the best organized and comprehensive program. It has also attracted a lot of support from buttom up through initiation of open science communities, the OS festival, and many university initiatives. While, historically, (digital) access to research output and data infrustures have been the driving force behind many open science initiatives, standardication and inter-operability of research hardware is more an more seen as a major component of realization of open science ambitions.
+
+Open hardware, is in our view the next major field of open science which requires development and attention. The technological transformations required for sustainability and global health has increase the urgency of giving this field a major role in research and education. The recent case of Covid19 pandemic has demonstrated that conventional supply chains for most essential products can easily fail the urgent needs of the people, while digital fabrication combined with open-source solutions can be life-saving, and therefore, even economically the most benefitial route to making technology accessible to the users. 
+For the knowledge-based inventions coming out of publicly funded research, the effectiveness of the conventional secrecy-based privatization and market-led technology transfer is bieng questions, especially for innovations regarding the basic living standards and sustainable planetary boundaries.
+ 
+Embracing open hardware in academia requires national coordination. We, as pioneers of open hardware in the Netherlands call for establishment of a national infrastructure for open source research hardware, with a similar role to what the eScience centre plays on data and research software.
+
+This white paper aims to provide a comprehensive guideline for the implementation of open hardware initiatives in the Netherlands, particularly in academia. The paper will discuss how bottom-up initiatives at universities can be combined with top-down governance from organizations such as NWO to maximize the benefits of open hardware in science, education, and society. The goal of this paper is to provide a consistent narrative that showcases successful examples of open hardware from both national and international perspectives, and to advocate for an allocation of NWO funds towards open hardware projects.
+
+Open hardware has the potential to revolutionize science, education, and society by facilitating collaborative innovation and democratizing access to technology. It can enhance the reproducibility and transparency of research, as well as reduce costs and promote sustainable practices. By promoting open hardware initiatives, the Netherlands can position itself as a leader in open science and contribute to the global effort of achieving sustainable development goals. We also aim to touch upon which cases can benefit the most from open source practices applied to hardware, some cases are less likely to be implemented due to issues that come from economic constrains, competition, geopolitics, security, ethics, and so on.
+
+
+Requests of the Authors:
++ The white paper is a call for writing a program document that explains how to implement open hardware initiatives. The program will provide guidelines on the allocation of funds, communication strategies, and integration with open science projects. 
+
+
 # Demonstration through cases
 
 -> alternative cases are very welcome.
+
+## Jerry's plastic scanner
 
 ## Opentrons
 Opentrons is a company that produces laboratory robots designed to automate experiments based on the open source 3D printing framework. From the outset, their robots are designed to be affordable and accessible, allowing researchers to focus on their work rather than manual pipetting.
@@ -38,7 +57,13 @@ At the same time, even if it is an off-the-shelf scientific instrument, it's sti
 
 # International and national context
 
-## Open source technology development
++ [NASA TOPS program](https://science.nasa.gov/open-science/transform-to-open-science)
++ [CZI supporting open source](https://chanzuckerberg.com/science/programs-resources/open-science/)
++ [UNESCO recommendation on open science](https://www.unesco.org/en/open-science)
++ [EnAccess program](https://enaccess.org/)
++ [NIH sharing policy for research tools](https://sharing.nih.gov/other-sharing-policies/research-tools-policy)
+
+## Open source vs secrecy-based transfer of technology from academia to industry
 -> Transcribed from the talk of Richard Bowman in Veldhoven, must be shortened.
 
 The currently prominent mode of technology creation out of fundamental research is as follows: I have an idea. I developed my idea. At some point that idea is well enough developed to disclose it to my tech transfer office. If they like it, then they will patent it. That gives us some measure of protection that nobody else is allowed to use the idea without our permission. We then license that patent to a company, the company do some manufacturing. The fact that the company probably have to do about 10 times as much work in R&D as I did developing the idea in the first place. That company can potentially generate some revenue money. And if we've gotten the paperwork right, some of that money flows back to research. But, in order for this to work, the first half of that process has to be secret, because many of the current partnerthisp scheme are geared towards secrecy and non-disclosure. Without secrecy one has prejudiced your own patent with prior art. The second part of the process is generally exclusive because that allows the company to take on investment. It is gives them an incentive to take the risk on bringing up a new product. And fair enough, that's how this is all justified. But actually it's a very leaky pipeline. Um, and there are a lot of places where your project ends up being abondened. Maybe the tech transfer office don't like it and they won't patent it. Maybe once they patented it, nobody wants to license it. And maybe after a company has licensed it, all they want to do is use the patent to troll other people and they're not actually interested in putting your equipment into other people's labs. 
@@ -53,6 +78,31 @@ TODO: Would be nice to review shortly what has been done recently in US, e.g. in
 ## Open hardware in academia
 
 ## Open hardware for research (worldwide)
+
+
+
+# Proposed activities of the NOHI
+
++ Organize hubs and competency centers in all research units
++ Create trainings for OH developers and researchers who want to turn their research products into OH
++ Make a database/roadmap of essential research tools that are obviously suitable for OH investment because of urgency, economic reasons, reproducibility, etc.
++ Create challenges and calls for Open hardware developments
++ Facilitate inter-operability
++ Lend expertise on OH to research group similar to the eScience center
++ Incubate Research Hardware Engineers (RHEs) with varied expertise
++ Act as a clearing house for openings, internships etc with regard to OH
++ Facilitate the development of OH standards
++ Pursue replication projects both as a method of teaching and experimenting with developing OH
++ Advice on and support OH entrepreneurship
++ help with maintenance
+ + help with documentation
++ maintain a databases with open source design (like NIH)
+
+
+
+
++ also check the proposition of the NEWS science communication proposal. 
+
 
 # National preparedness
 
@@ -77,8 +127,6 @@ https://www.nrc.nl/nieuws/2021/04/21/thuistest-voor-corona-in-een-espressocupje-
 
 and so on and so on 
 
-
-
 # Experience of the eScience center
 -> Transcribed from the talk of Nicolas Renaud
 
@@ -94,6 +142,5 @@ So in terms of supporting and uh, disseminating software, we also try to develop
 Organization can also use that to see and show to funders what they've been doing.
 
 Quantifying the impact and userbase of the software is one of the tools for eSceince center to make sure that all the policymaker keep on, funding open source and open science. So that's something that we invite everyone to use and we could extend it for open hardware. Another area of impact is to participate in this teaching. The center has a wide range of courses from basic programming skills to GP programming to keep learning to all sort of things. Education of the end users is important for each project to maintain the software also after the end of the project at the eScience center 
-# Proposed activities of the NOHI
 
-+ also check the proposition of the NEWS science communication proposal. 
+
