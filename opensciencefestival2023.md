@@ -29,7 +29,7 @@ Maybe Siemens would like to join:
         - Plastic Scanner
         - Siemen....
     
-#### 2.1. Market Place combine the above with a plan
+#### 2.1. Market Place combine the above with a plan (250 word write up for submission- please review)
     
     
     **Open Hardware in the Netherlands – a University Perspective**
