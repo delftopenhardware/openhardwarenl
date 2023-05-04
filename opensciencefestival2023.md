@@ -32,7 +32,7 @@ Maybe Siemens would like to join:
 #### 2.1. Market Place combine the above with a plan
     
     
-    Open Hardware in the Netherlands – a University Perspective
+    ''' Open Hardware in the Netherlands – a University Perspective
     The open hardware marketplace at the open science festival hopes to share with the participants, some of the activities of the Open Hardware community in the Netherlands. This is a joint marketplace hosted by members of the open hardware communities from TU Delft, Utrecht University and Wageningen University. 
     Open hardware is a crucial component for a comprehensive open science ecosystem and we are looking to showcase some of the achievements of this community over the past few years, along with a call for participation. In this regard the market place will feature a display of some of the projects that have originated from the open hardware communities from the three universities, including,
     1.	Plastic scanner – Jerry, TU Delft (winner of the Dyson Innovation award)
@@ -44,7 +44,7 @@ Maybe Siemens would like to join:
     1.	Worm bin – Vincent
     2.	Easily accessible music player for those with Neuro-degenerative diseases – Nemo
     3.	Bicycle theft detection – Nanami
-    We hope these examples will foster greater participation and involvement in Open Hardware from members of the open science community from around the Netherlands. 
+    We hope these examples will foster greater participation and involvement in Open Hardware from members of the open science community from around the Netherlands. ''' 
 
     
     
