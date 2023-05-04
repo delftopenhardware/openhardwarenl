@@ -67,8 +67,11 @@ Maybe Siemens would like to join:
     
     
 #### 6 Workshop paper signals
-    Branded as reproducibility
-    
+
+    ** Hands on Workshop on Internet of Things and Reproducibility. **
+
+    The workshop will entail building a small hardware module out of over the counter electronics components and paper. These modules will be capable of connecting with various online websites/resources to provide real time illustration of different topics of interest, from the weather, to the stock market to flags to denote messages in the inbox. It will be an easy way to introduce IOT and reproducibility aspects in hardware to members of the open science community. 
+
 
     
 
