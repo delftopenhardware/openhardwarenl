@@ -18,35 +18,35 @@ Proposals so far on what we would liket to submit (from meeting of DOH h/t Jose)
 
 #### 1. How Universities can support open hardware science spinnoffs: Open Hardware in practice from master thesis to RHE.
 
-Tell the story of how you go from doing a master thesis working already in an open source ethos (precious plastics background), then moving on to having a backup by the University to be able to spend time on this project, which have allowed Jerry to develop further Tech leadership skills in an open source approach and provide new knowledge application opportunities for students from different disciplines: machine learning, software engineering, applied physics... I would emphasize those aspects that show case how the University produces a spinoof that contributes back to the education system by providing new real opportunities to contribute to projects that aim to solve real problems, how also.
+    Tell the story of how you go from doing a master thesis working already in an open source ethos (precious plastics background), then moving on to having a backup by the University to be able to spend time on this project, which have allowed Jerry to develop further Tech leadership skills in an open source approach and provide new knowledge application opportunities for students from different disciplines: machine learning, software engineering, applied physics... I would emphasize those aspects that show case how the University produces a spinoof that contributes back to the education system by providing new real opportunities to contribute to projects that aim to solve real problems, how also.
     
 Maybe Siemens would like to join:
     
 #### 2. Market place showcasing dutch open hardware products incubated at the University.**'
-Todo: Make a call for people in the netherlands to join the market place...
-    - Vit microscopes
-    - Martin Klomp
-    - Plastic Scanner
-    - Siemen....
+    Todo: Make a call for people in the netherlands to join the market place...
+        - Vit microscopes
+        - Martin Klomp
+        - Plastic Scanner
+        - Siemen....
     
 #### 2.1. Market Place combine the above with a plan
     With Vit and Sanli show not only projects above, but also plans ahead, where are we going towards
     
     
 #### 3 Session on OH Academy
-- Introduce what we did last year, show the materials, how to show the materials... Explain the philosophy of the material.....
-- Academic year September...
-- Ideas for the future...
+    - Introduce what we did last year, show the materials, how to show the materials... Explain the philosophy of the material.....
+    - Academic year September...
+    - Ideas for the future...
     
 #### 4 Workshop National challenge
-- One aspect of a challenge of FAIR battery
-- NOIH challenge, 
-- Competion FLOW batteries
+    - One aspect of a challenge of FAIR battery
+    - NOIH challenge, 
+    - Competion FLOW batteries
     
 How would a national challenge look like:
-    - Interactive: Workshop designing a national challenge open hardware
-    - Invite participants
-    - Test the idea of a National Challenge...
+        - Interactive: Workshop designing a national challenge open hardware
+        - Invite participants
+        - Test the idea of a National Challenge...
 
 #### 5 How to foster an open hardware community
     
